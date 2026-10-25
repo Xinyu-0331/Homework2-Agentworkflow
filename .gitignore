@@ -1,0 +1,10 @@
+# 密钥文件
+.env
+!.env.example
+
+# Python缓存
+__pycache__/
+*.pyc
+
+
+*.mp4
